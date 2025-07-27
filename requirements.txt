@@ -1,0 +1,7 @@
+httpx
+python-telegram-bot
+apscheduler
+pytz
+beautifulsoup4
+selenium
+flask
